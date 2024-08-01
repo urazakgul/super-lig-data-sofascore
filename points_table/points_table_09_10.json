@@ -3,7 +3,7 @@
 {"season":"09\/10","tournament":"Super Lig","team_id":3061,"team_name":"Galatasaray","position":3,"matches":34,"wins":19,"draws":10,"losses":8,"scores_for":61,"scores_against":35,"points":64,"category":"Total"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":4,"matches":34,"wins":18,"draws":18,"losses":6,"scores_for":47,"scores_against":25,"points":64,"category":"Total"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":5,"matches":34,"wins":16,"draws":14,"losses":9,"scores_for":53,"scores_against":32,"points":57,"category":"Total"}
-{"season":"09\/10","tournament":"Super Lig","team_id":3086,"team_name":"Başakşehir FK","position":6,"matches":34,"wins":16,"draws":14,"losses":10,"scores_for":47,"scores_against":44,"points":56,"category":"Total"}
+{"season":"09\/10","tournament":"Super Lig","team_id":3086,"team_name":"İstanbul BB","position":6,"matches":34,"wins":16,"draws":14,"losses":10,"scores_for":47,"scores_against":44,"points":56,"category":"Total"}
 {"season":"09\/10","tournament":"Super Lig","team_id":6364,"team_name":"Eskişehirspor","position":7,"matches":34,"wins":15,"draws":12,"losses":9,"scores_for":44,"scores_against":34,"points":55,"category":"Total"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3072,"team_name":"Kayserispor","position":8,"matches":34,"wins":14,"draws":6,"losses":11,"scores_for":45,"scores_against":37,"points":51,"category":"Total"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3056,"team_name":"Antalyaspor","position":9,"matches":34,"wins":14,"draws":4,"losses":13,"scores_for":49,"scores_against":38,"points":49,"category":"Total"}
@@ -22,7 +22,7 @@
 {"season":"09\/10","tournament":"Super Lig","team_id":3061,"team_name":"Galatasaray","position":4,"matches":17,"wins":11,"draws":6,"losses":2,"scores_for":37,"scores_against":13,"points":37,"category":"Home"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":5,"matches":17,"wins":11,"draws":0,"losses":3,"scores_for":29,"scores_against":12,"points":36,"category":"Home"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":6,"matches":17,"wins":10,"draws":8,"losses":2,"scores_for":28,"scores_against":11,"points":35,"category":"Home"}
-{"season":"09\/10","tournament":"Super Lig","team_id":3086,"team_name":"Başakşehir FK","position":7,"matches":17,"wins":9,"draws":4,"losses":4,"scores_for":24,"scores_against":20,"points":31,"category":"Home"}
+{"season":"09\/10","tournament":"Super Lig","team_id":3086,"team_name":"İstanbul BB","position":7,"matches":17,"wins":9,"draws":4,"losses":4,"scores_for":24,"scores_against":20,"points":31,"category":"Home"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3056,"team_name":"Antalyaspor","position":8,"matches":17,"wins":9,"draws":2,"losses":5,"scores_for":29,"scores_against":15,"points":30,"category":"Home"}
 {"season":"09\/10","tournament":"Super Lig","team_id":6063,"team_name":"Kasımpaşa","position":9,"matches":17,"wins":7,"draws":8,"losses":5,"scores_for":29,"scores_against":25,"points":26,"category":"Home"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3103,"team_name":"MKE Ankaragücü","position":10,"matches":17,"wins":6,"draws":10,"losses":3,"scores_for":24,"scores_against":16,"points":26,"category":"Home"}
@@ -39,7 +39,7 @@
 {"season":"09\/10","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":3,"matches":17,"wins":8,"draws":0,"losses":4,"scores_for":19,"scores_against":14,"points":29,"category":"Away"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3061,"team_name":"Galatasaray","position":4,"matches":17,"wins":8,"draws":2,"losses":6,"scores_for":24,"scores_against":22,"points":27,"category":"Away"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3072,"team_name":"Kayserispor","position":5,"matches":17,"wins":8,"draws":2,"losses":7,"scores_for":20,"scores_against":23,"points":26,"category":"Away"}
-{"season":"09\/10","tournament":"Super Lig","team_id":3086,"team_name":"Başakşehir FK","position":6,"matches":17,"wins":7,"draws":2,"losses":6,"scores_for":23,"scores_against":24,"points":25,"category":"Away"}
+{"season":"09\/10","tournament":"Super Lig","team_id":3086,"team_name":"İstanbul BB","position":6,"matches":17,"wins":7,"draws":2,"losses":6,"scores_for":23,"scores_against":24,"points":25,"category":"Away"}
 {"season":"09\/10","tournament":"Super Lig","team_id":7802,"team_name":"Gençlerbirliği","position":7,"matches":17,"wins":6,"draws":6,"losses":7,"scores_for":20,"scores_against":21,"points":22,"category":"Away"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":8,"matches":17,"wins":5,"draws":8,"losses":6,"scores_for":24,"scores_against":20,"points":21,"category":"Away"}
 {"season":"09\/10","tournament":"Super Lig","team_id":3056,"team_name":"Antalyaspor","position":9,"matches":17,"wins":5,"draws":0,"losses":8,"scores_for":20,"scores_against":23,"points":19,"category":"Away"}

@@ -4,10 +4,10 @@
 {"season":"13\/14","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":4,"matches":34,"wins":14,"draws":18,"losses":9,"scores_for":53,"scores_against":41,"points":53,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3076,"team_name":"Sivasspor","position":5,"matches":34,"wins":16,"draws":4,"losses":13,"scores_for":60,"scores_against":55,"points":53,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":6063,"team_name":"Kasımpaşa","position":6,"matches":34,"wins":13,"draws":22,"losses":9,"scores_for":56,"scores_against":39,"points":51,"category":"Total"}
-{"season":"13\/14","tournament":"Super Lig","team_id":7027,"team_name":"Kardemir Karabukspor","position":7,"matches":34,"wins":13,"draws":16,"losses":10,"scores_for":33,"scores_against":34,"points":50,"category":"Total"}
+{"season":"13\/14","tournament":"Super Lig","team_id":7027,"team_name":"Kardemir Karabükspor","position":7,"matches":34,"wins":13,"draws":16,"losses":10,"scores_for":33,"scores_against":34,"points":50,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3055,"team_name":"Bursaspor","position":8,"matches":34,"wins":12,"draws":18,"losses":12,"scores_for":40,"scores_against":46,"points":46,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":7802,"team_name":"Gençlerbirliği","position":9,"matches":34,"wins":13,"draws":0,"losses":15,"scores_for":39,"scores_against":43,"points":45,"category":"Total"}
-{"season":"13\/14","tournament":"Super Lig","team_id":24748,"team_name":"Akhisarspor","position":10,"matches":34,"wins":12,"draws":12,"losses":14,"scores_for":44,"scores_against":55,"points":44,"category":"Total"}
+{"season":"13\/14","tournament":"Super Lig","team_id":24748,"team_name":"Akhisar Belediyespor","position":10,"matches":34,"wins":12,"draws":12,"losses":14,"scores_for":44,"scores_against":55,"points":44,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3085,"team_name":"Konyaspor","position":11,"matches":34,"wins":11,"draws":2,"losses":14,"scores_for":48,"scores_against":45,"points":42,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":6364,"team_name":"Eskişehirspor","position":12,"matches":34,"wins":10,"draws":22,"losses":12,"scores_for":33,"scores_against":35,"points":42,"category":"Total"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3064,"team_name":"Çaykur Rizespor","position":13,"matches":34,"wins":10,"draws":8,"losses":12,"scores_for":43,"scores_against":43,"points":42,"category":"Total"}
@@ -21,9 +21,9 @@
 {"season":"13\/14","tournament":"Super Lig","team_id":3076,"team_name":"Sivasspor","position":3,"matches":17,"wins":13,"draws":0,"losses":4,"scores_for":35,"scores_against":21,"points":39,"category":"Home"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":4,"matches":17,"wins":10,"draws":6,"losses":1,"scores_for":26,"scores_against":12,"points":36,"category":"Home"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":5,"matches":17,"wins":10,"draws":2,"losses":3,"scores_for":28,"scores_against":19,"points":34,"category":"Home"}
-{"season":"13\/14","tournament":"Super Lig","team_id":24748,"team_name":"Akhisarspor","position":6,"matches":17,"wins":9,"draws":0,"losses":4,"scores_for":30,"scores_against":21,"points":31,"category":"Home"}
+{"season":"13\/14","tournament":"Super Lig","team_id":24748,"team_name":"Akhisar Belediyespor","position":6,"matches":17,"wins":9,"draws":0,"losses":4,"scores_for":30,"scores_against":21,"points":31,"category":"Home"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3055,"team_name":"Bursaspor","position":7,"matches":17,"wins":8,"draws":0,"losses":3,"scores_for":27,"scores_against":19,"points":30,"category":"Home"}
-{"season":"13\/14","tournament":"Super Lig","team_id":7027,"team_name":"Kardemir Karabukspor","position":8,"matches":17,"wins":8,"draws":2,"losses":3,"scores_for":18,"scores_against":12,"points":30,"category":"Home"}
+{"season":"13\/14","tournament":"Super Lig","team_id":7027,"team_name":"Kardemir Karabükspor","position":8,"matches":17,"wins":8,"draws":2,"losses":3,"scores_for":18,"scores_against":12,"points":30,"category":"Home"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3085,"team_name":"Konyaspor","position":9,"matches":17,"wins":9,"draws":0,"losses":5,"scores_for":29,"scores_against":15,"points":30,"category":"Home"}
 {"season":"13\/14","tournament":"Super Lig","team_id":7802,"team_name":"Gençlerbirliği","position":10,"matches":17,"wins":8,"draws":0,"losses":5,"scores_for":26,"scores_against":20,"points":28,"category":"Home"}
 {"season":"13\/14","tournament":"Super Lig","team_id":6364,"team_name":"Eskişehirspor","position":11,"matches":17,"wins":7,"draws":6,"losses":4,"scores_for":21,"scores_against":15,"points":27,"category":"Home"}
@@ -38,7 +38,7 @@
 {"season":"13\/14","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":2,"matches":17,"wins":7,"draws":0,"losses":5,"scores_for":27,"scores_against":21,"points":26,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":6063,"team_name":"Kasımpaşa","position":3,"matches":17,"wins":6,"draws":10,"losses":3,"scores_for":23,"scores_against":14,"points":26,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3061,"team_name":"Galatasaray","position":4,"matches":17,"wins":5,"draws":14,"losses":3,"scores_for":23,"scores_against":16,"points":24,"category":"Away"}
-{"season":"13\/14","tournament":"Super Lig","team_id":7027,"team_name":"Kardemir Karabukspor","position":5,"matches":17,"wins":5,"draws":4,"losses":7,"scores_for":15,"scores_against":22,"points":20,"category":"Away"}
+{"season":"13\/14","tournament":"Super Lig","team_id":7027,"team_name":"Kardemir Karabükspor","position":5,"matches":17,"wins":5,"draws":4,"losses":7,"scores_for":15,"scores_against":22,"points":20,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":6,"matches":17,"wins":4,"draws":0,"losses":6,"scores_for":25,"scores_against":22,"points":19,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3056,"team_name":"Antalyaspor","position":7,"matches":17,"wins":4,"draws":8,"losses":7,"scores_for":18,"scores_against":25,"points":18,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":7802,"team_name":"Gençlerbirliği","position":8,"matches":17,"wins":5,"draws":2,"losses":10,"scores_for":13,"scores_against":23,"points":17,"category":"Away"}
@@ -49,6 +49,6 @@
 {"season":"13\/14","tournament":"Super Lig","team_id":3060,"team_name":"Gaziantepspor","position":13,"matches":17,"wins":5,"draws":0,"losses":12,"scores_for":15,"scores_against":31,"points":15,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3076,"team_name":"Sivasspor","position":14,"matches":17,"wins":3,"draws":2,"losses":9,"scores_for":25,"scores_against":34,"points":14,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3072,"team_name":"Kayserispor","position":15,"matches":17,"wins":3,"draws":6,"losses":10,"scores_for":18,"scores_against":33,"points":13,"category":"Away"}
-{"season":"13\/14","tournament":"Super Lig","team_id":24748,"team_name":"Akhisarspor","position":16,"matches":17,"wins":3,"draws":0,"losses":10,"scores_for":14,"scores_against":34,"points":13,"category":"Away"}
+{"season":"13\/14","tournament":"Super Lig","team_id":24748,"team_name":"Akhisar Belediyespor","position":16,"matches":17,"wins":3,"draws":0,"losses":10,"scores_for":14,"scores_against":34,"points":13,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3068,"team_name":"Elazığspor","position":17,"matches":17,"wins":4,"draws":0,"losses":13,"scores_for":17,"scores_against":43,"points":12,"category":"Away"}
 {"season":"13\/14","tournament":"Super Lig","team_id":3085,"team_name":"Konyaspor","position":18,"matches":17,"wins":2,"draws":6,"losses":9,"scores_for":19,"scores_against":30,"points":12,"category":"Away"}

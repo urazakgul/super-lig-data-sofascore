@@ -2,7 +2,7 @@
 {"season":"22\/23","tournament":"Super Lig","team_id":3052,"team_name":"Fenerbahçe","position":2,"matches":36,"wins":25,"draws":4,"losses":6,"scores_for":87,"scores_against":42,"points":80,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":3,"matches":36,"wins":23,"draws":2,"losses":4,"scores_for":78,"scores_against":36,"points":78,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3101,"team_name":"Adana Demirspor","position":4,"matches":36,"wins":20,"draws":2,"losses":7,"scores_for":76,"scores_against":45,"points":69,"category":"Total"}
-{"season":"22\/23","tournament":"Super Lig","team_id":3086,"team_name":"Başakşehir FK","position":5,"matches":36,"wins":18,"draws":14,"losses":10,"scores_for":54,"scores_against":37,"points":62,"category":"Total"}
+{"season":"22\/23","tournament":"Super Lig","team_id":3086,"team_name":"İstanbul Başakşehir","position":5,"matches":36,"wins":18,"draws":14,"losses":10,"scores_for":54,"scores_against":37,"points":62,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":6,"matches":36,"wins":17,"draws":8,"losses":13,"scores_for":64,"scores_against":54,"points":57,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":4954,"team_name":"Fatih Karagümrük","position":7,"matches":36,"wins":13,"draws":8,"losses":11,"scores_for":75,"scores_against":63,"points":51,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3085,"team_name":"Konyaspor","position":8,"matches":36,"wins":12,"draws":0,"losses":9,"scores_for":49,"scores_against":41,"points":51,"category":"Total"}
@@ -15,14 +15,14 @@
 {"season":"22\/23","tournament":"Super Lig","team_id":3066,"team_name":"İstanbulspor","position":15,"matches":36,"wins":12,"draws":8,"losses":19,"scores_for":47,"scores_against":63,"points":41,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":5765,"team_name":"Giresunspor","position":16,"matches":36,"wins":10,"draws":6,"losses":16,"scores_for":42,"scores_against":60,"points":40,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":55625,"team_name":"Ümraniyespor","position":17,"matches":36,"wins":7,"draws":14,"losses":20,"scores_for":47,"scores_against":64,"points":30,"category":"Total"}
-{"season":"22\/23","tournament":"Super Lig","team_id":5138,"team_name":"Gaziantep FK","position":18,"matches":36,"wins":6,"draws":4,"losses":23,"scores_for":31,"scores_against":72,"points":25,"category":"Total"}
+{"season":"22\/23","tournament":"Super Lig","team_id":5138,"team_name":"Gaziantep","position":18,"matches":36,"wins":6,"draws":4,"losses":23,"scores_for":31,"scores_against":72,"points":25,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3091,"team_name":"Hatayspor","position":19,"matches":36,"wins":6,"draws":0,"losses":25,"scores_for":19,"scores_against":83,"points":23,"category":"Total"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3061,"team_name":"Galatasaray","position":1,"matches":18,"wins":15,"draws":0,"losses":1,"scores_for":41,"scores_against":15,"points":47,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":2,"matches":18,"wins":13,"draws":6,"losses":1,"scores_for":41,"scores_against":15,"points":43,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3052,"team_name":"Fenerbahçe","position":3,"matches":18,"wins":13,"draws":0,"losses":3,"scores_for":50,"scores_against":24,"points":41,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3101,"team_name":"Adana Demirspor","position":4,"matches":18,"wins":12,"draws":2,"losses":2,"scores_for":46,"scores_against":19,"points":40,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":5,"matches":18,"wins":12,"draws":6,"losses":2,"scores_for":38,"scores_against":13,"points":40,"category":"Home"}
-{"season":"22\/23","tournament":"Super Lig","team_id":3086,"team_name":"Başakşehir FK","position":6,"matches":18,"wins":12,"draws":0,"losses":4,"scores_for":31,"scores_against":17,"points":38,"category":"Home"}
+{"season":"22\/23","tournament":"Super Lig","team_id":3086,"team_name":"İstanbul Başakşehir","position":6,"matches":18,"wins":12,"draws":0,"losses":4,"scores_for":31,"scores_against":17,"points":38,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3072,"team_name":"Kayserispor","position":7,"matches":18,"wins":9,"draws":2,"losses":7,"scores_for":28,"scores_against":22,"points":29,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":6362,"team_name":"Alanyaspor","position":8,"matches":18,"wins":8,"draws":0,"losses":6,"scores_for":29,"scores_against":27,"points":28,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3056,"team_name":"Antalyaspor","position":9,"matches":18,"wins":8,"draws":2,"losses":7,"scores_for":31,"scores_against":26,"points":27,"category":"Home"}
@@ -35,14 +35,14 @@
 {"season":"22\/23","tournament":"Super Lig","team_id":3066,"team_name":"İstanbulspor","position":16,"matches":18,"wins":6,"draws":0,"losses":9,"scores_for":24,"scores_against":31,"points":21,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3091,"team_name":"Hatayspor","position":17,"matches":18,"wins":4,"draws":4,"losses":10,"scores_for":12,"scores_against":37,"points":16,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":55625,"team_name":"Ümraniyespor","position":18,"matches":18,"wins":3,"draws":4,"losses":11,"scores_for":22,"scores_against":29,"points":13,"category":"Home"}
-{"season":"22\/23","tournament":"Super Lig","team_id":5138,"team_name":"Gaziantep FK","position":19,"matches":18,"wins":3,"draws":0,"losses":11,"scores_for":17,"scores_against":37,"points":13,"category":"Home"}
+{"season":"22\/23","tournament":"Super Lig","team_id":5138,"team_name":"Gaziantep","position":19,"matches":18,"wins":3,"draws":0,"losses":11,"scores_for":17,"scores_against":37,"points":13,"category":"Home"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3061,"team_name":"Galatasaray","position":1,"matches":18,"wins":13,"draws":2,"losses":3,"scores_for":42,"scores_against":12,"points":41,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3052,"team_name":"Fenerbahçe","position":2,"matches":18,"wins":12,"draws":4,"losses":3,"scores_for":37,"scores_against":18,"points":39,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3050,"team_name":"Beşiktaş","position":3,"matches":18,"wins":10,"draws":6,"losses":3,"scores_for":37,"scores_against":21,"points":35,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3101,"team_name":"Adana Demirspor","position":4,"matches":18,"wins":8,"draws":6,"losses":5,"scores_for":30,"scores_against":26,"points":29,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3085,"team_name":"Konyaspor","position":5,"matches":18,"wins":7,"draws":4,"losses":4,"scores_for":31,"scores_against":23,"points":28,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":4954,"team_name":"Fatih Karagümrük","position":6,"matches":18,"wins":6,"draws":10,"losses":5,"scores_for":35,"scores_against":32,"points":25,"category":"Away"}
-{"season":"22\/23","tournament":"Super Lig","team_id":3086,"team_name":"Başakşehir FK","position":7,"matches":18,"wins":6,"draws":10,"losses":6,"scores_for":23,"scores_against":20,"points":24,"category":"Away"}
+{"season":"22\/23","tournament":"Super Lig","team_id":3086,"team_name":"İstanbul Başakşehir","position":7,"matches":18,"wins":6,"draws":10,"losses":6,"scores_for":23,"scores_against":20,"points":24,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3072,"team_name":"Kayserispor","position":8,"matches":18,"wins":6,"draws":4,"losses":9,"scores_for":27,"scores_against":39,"points":21,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3103,"team_name":"MKE Ankaragücü","position":9,"matches":18,"wins":6,"draws":2,"losses":10,"scores_for":19,"scores_against":25,"points":20,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3066,"team_name":"İstanbulspor","position":10,"matches":18,"wins":6,"draws":0,"losses":10,"scores_for":23,"scores_against":32,"points":20,"category":"Away"}
@@ -53,5 +53,5 @@
 {"season":"22\/23","tournament":"Super Lig","team_id":3051,"team_name":"Trabzonspor","position":15,"matches":18,"wins":5,"draws":0,"losses":11,"scores_for":26,"scores_against":41,"points":17,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3056,"team_name":"Antalyaspor","position":16,"matches":18,"wins":3,"draws":6,"losses":10,"scores_for":15,"scores_against":29,"points":14,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":6362,"team_name":"Alanyaspor","position":17,"matches":18,"wins":3,"draws":2,"losses":11,"scores_for":25,"scores_against":43,"points":13,"category":"Away"}
-{"season":"22\/23","tournament":"Super Lig","team_id":5138,"team_name":"Gaziantep FK","position":18,"matches":18,"wins":3,"draws":0,"losses":12,"scores_for":14,"scores_against":35,"points":12,"category":"Away"}
+{"season":"22\/23","tournament":"Super Lig","team_id":5138,"team_name":"Gaziantep","position":18,"matches":18,"wins":3,"draws":0,"losses":12,"scores_for":14,"scores_against":35,"points":12,"category":"Away"}
 {"season":"22\/23","tournament":"Super Lig","team_id":3091,"team_name":"Hatayspor","position":19,"matches":18,"wins":2,"draws":0,"losses":15,"scores_for":7,"scores_against":46,"points":7,"category":"Away"}
